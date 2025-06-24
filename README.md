@@ -3,13 +3,13 @@
 > Mini-projet de TP - Apprentissage Automatique  
 > Auteur : Eya Zouch
 
-## 🧠 Objectif du projet
+##  Objectif du projet
 
 Ce projet vise à développer un modèle prédictif de machine learning pour détecter précocement les risques de crise cardiaque à partir de caractéristiques médicales. Une détection précoce permettrait des interventions médicales plus rapides, pouvant sauver de nombreuses vies.
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 - `cardio_predict.py` : Script principal contenant l'importation des données, la préparation, l'entraînement des modèles, l'évaluation, et une interface interactive.
 - `heart.csv` : Fichier de données utilisé .
@@ -17,7 +17,7 @@ Ce projet vise à développer un modèle prédictif de machine learning pour dé
 
 ---
 
-## 📊 Jeu de données utilisé
+##  Jeu de données utilisé
 
 Le fichier `heart.csv` contient les attributs suivants :
 
@@ -40,7 +40,7 @@ Le fichier `heart.csv` contient les attributs suivants :
 
 ---
 
-## 🔍 Méthodologie
+##  Méthodologie
 
 1. **Nettoyage et normalisation des données**
 2. **Entraînement de plusieurs modèles** :
@@ -55,7 +55,7 @@ Le fichier `heart.csv` contient les attributs suivants :
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - Python 3
 - `pandas`, `numpy`
@@ -65,7 +65,7 @@ Le fichier `heart.csv` contient les attributs suivants :
 
 ---
 
-## ▶️ Exécution
+##  Exécution
 
 Assurez-vous d’avoir Python 3 et les dépendances installées, puis lancez :
 
